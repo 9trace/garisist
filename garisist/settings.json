@@ -1,0 +1,40 @@
+{
+    "Gari": {
+        "Binds": {
+            "Keybind": "RButton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 15
+        },
+        "Bezier": {
+            "LinearCurveX": 0.400,
+            "LinearCurveY": 0.400
+        },
+        "Easing": {
+            "SmoothnessX": 900,
+            "SmoothnessY": 900,
+            "SmoothingReplicatorX": 9,
+            "SmoothingReplicatorY": 9,
+            "SmoothingDividerX": 710,
+            "SmoothingDividerY": 720,
+            "Prediction": {
+                "Enabled": false,
+                "Mode": "Multiplication",
+                "PredictionX": 5,
+                "PredictionY": 5
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 2000,
+            "AimbotUpdateMS": 1000,
+            "CameraToGunFOV": 85,
+            "FlickTime" : 1
+        },
+        "FOV": {
+            "FOVOffsetX": 10,
+            "FOVOffsetY": 10
+        }
+    }
+}
